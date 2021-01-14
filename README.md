@@ -5,7 +5,7 @@ El proyecto se trata de llamar a un modelo en el cual analiza tanto la foto toma
 
 ## Deep Learning
 
-Se llego a comprenderen la realizacion de este mini proyecto como funciona y tambien como se entrena un modelo basado en una tecnica de inteligerncia artifical llamada Deep Learning
+Se llego a comprender mediante la realizacion de este mini proyecto como funciona y tambien como se entrena un modelo basado en una tecnica de Inteligerncia Artifical(IA) llamada Deep Learning
 
 ## Backend
 
